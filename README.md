@@ -65,7 +65,8 @@
 ---
 
 ## 安装
-npx skills add mingm6117-eng/fengewangming1-skill
+ 
+npx skills add mingm6117-eng/fengewangming-skill
 
 
 或者将以下内容复制到你的 Claude 系统提示词中：
